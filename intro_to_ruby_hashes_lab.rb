@@ -12,14 +12,14 @@ end
 
 def monopoly_with_third_tier
  monopoly = {
-	  railroads: { names:{}
+	  railroads: { 
 	    rent_in_dollars: 
 	    {key1: 1, 
 	    key2: 2, 
 	    key3: 3,
 	    key4: 4}
 	  }
-	  
+	  {names: "name"}
 	  }
 end
 
